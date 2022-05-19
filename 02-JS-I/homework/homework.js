@@ -104,7 +104,6 @@ function mayorQueCincuenta(num) {
   }
   }
   
-}
 
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
@@ -124,7 +123,6 @@ function esPar(num) {
   }
   }
   
-}
 
 function esImpar(num) {
   // Devuelve "true" si "num" es impar
@@ -137,7 +135,6 @@ function esImpar(num) {
   }
   }
   
-}
 
 function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
@@ -198,7 +195,6 @@ function esPositivo(numero) {
     
   }
   
-}
 
 function agregarSimboloExclamacion(str) {
   // Agrega un símbolo de exclamación al final de la string "str" y devuelve una nueva string
@@ -272,7 +268,6 @@ function esVocal(letra){
   return "Dato incorrecto";
   }
   
-}
 
 
 
